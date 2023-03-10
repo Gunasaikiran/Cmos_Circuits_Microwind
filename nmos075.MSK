@@ -1,0 +1,19 @@
+VERSION 10-03-2023 10:06:10
+FIG #C:\Users\GUNA\Downloads\MicroWind\MicroWind\Microwind_03\nmos075.MSK
+BB(0,41,18,53)
+SIMU #5.00
+REC(10,44,8,6,DN)
+REC(0,44,8,6,DN)
+REC(2,46,2,2,CO)
+REC(14,46,2,2,CO)
+REC(8,41,2,12,PO)
+REC(12,44,6,6,ME)
+REC(0,44,6,6,ME)
+REC(8,44,2,6,DN)
+TITLE 2 48  #vs
+$c 1000 0 0.4500 0.5000 0.9500 1.0000 
+TITLE 9 52  #vg
+$c 1000 0 0.9500 1.0000 1.9500 2.0000 
+TITLE 15 47  #vout
+$v 1000 0 
+FFIG C:\Users\GUNA\Downloads\MicroWind\MicroWind\Microwind_03\nmos075.MSK

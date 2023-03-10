@@ -1,0 +1,37 @@
+VERSION 10-03-2023 16:27:06
+FIG #C:\Users\VLSI LAB\Desktop\cmos design\cmos invertor perfect 075.MSK
+BB(-6,-6,24,52)
+SIMU #20.00
+ZOOM(-26,-11,29,57)
+REC(-6,16,30,30,NW)
+REC(10,22,8,18,DP)
+REC(0,22,8,18,DP)
+REC(10,4,8,6,DN)
+REC(0,4,8,6,DN)
+REC(2,6,2,2,CO)
+REC(14,6,2,2,CO)
+REC(14,30,2,2,CO)
+REC(2,30,2,2,CO)
+REC(8,1,2,42,PO)
+REC(0,34,4,14,ME)
+REC(14,10,4,18,ME)
+REC(12,4,6,6,ME)
+REC(0,4,6,6,ME)
+REC(12,28,6,6,ME)
+REC(0,28,6,6,ME)
+REC(-6,48,30,4,ME)
+REC(0,-2,4,6,ME)
+REC(0,-6,18,4,ME)
+REC(8,22,2,18,DP)
+REC(8,4,2,6,DN)
+TITLE 14 50  #Vdd
+$1 1000 0 
+TITLE 21 41  #Vdd
+$1 1000 0 
+TITLE 14 -3  #Vss
+$0 1000 0 
+TITLE 9 14  #input
+$c 1000 0 0.4500 0.5000 0.9500 1.0000 
+TITLE 16 13  #out
+$v 1000 0 
+FFIG C:\Users\VLSI LAB\Desktop\cmos design\cmos invertor perfect 075.MSK
